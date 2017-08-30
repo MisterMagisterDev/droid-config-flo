@@ -21,6 +21,13 @@ Requires:
 # 3rd party accounts like Twitter, VK, cloud services, etc
 - jolla-settings-accounts-extensions-3rd-party-all
 
+# Jolla Store items
+- store-client
+- jolla-settings-accounts-extensions-jolla
+
+# Non-trusted app installation support
+- jolla-settings-system-sideloading
+
 # For Mozilla location services (online)
 - geoclue-provider-mlsdb
 

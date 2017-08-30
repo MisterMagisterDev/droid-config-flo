@@ -7,6 +7,7 @@ Requires:
 - droid-hal-flo
 - droid-hal-flo-img-boot
 - droid-hal-flo-kernel-modules
+- droid-hal-flo-detritus
 - droid-config-flo-sailfish
 - droid-config-flo-pulseaudio-settings
 - droid-config-flo-policy-settings
@@ -31,6 +32,7 @@ Requires:
 - qt5-plugin-generic-evdev
 
 - pulseaudio-modules-droid
+- pulseaudio-modules-droid-glue
 # for audio recording to work:
 - qt5-qtmultimedia-plugin-mediaservice-gstmediacapture
 
