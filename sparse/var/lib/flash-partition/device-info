@@ -1,0 +1,8 @@
+
+CPUCHECK_STRING="QCT APQ8064 FLO"
+
+PART_1="boot"
+
+PART_REAL_1="mmcblk0p14"
+
+PART_I="1"

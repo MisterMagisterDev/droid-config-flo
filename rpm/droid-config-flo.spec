@@ -6,7 +6,7 @@
 %define device_pretty Nexus 7 (2013 WiFi)
 
 # Adjust this for your device
-%define pixel_ratio 1.0
+%define pixel_ratio 1.1
 
 # Community HW adaptations need this
 %define community_adaptation 1

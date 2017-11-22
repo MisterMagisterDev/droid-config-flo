@@ -7,7 +7,6 @@ Requires:
 - droid-hal-flo
 - droid-hal-flo-img-boot
 - droid-hal-flo-kernel-modules
-- droid-hal-flo-detritus
 - droid-config-flo-sailfish
 - droid-config-flo-pulseaudio-settings
 - droid-config-flo-policy-settings
